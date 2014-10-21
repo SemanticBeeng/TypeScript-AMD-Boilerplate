@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b47d7f19-db4a-48c8-9452-515d18dadf5a" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\scripts\_declare\handlebars.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\scripts\_declare\jquery.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\scripts\_declare\lodash.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\scripts\_declare\require.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\handlebars\handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\jquery\jquery-1.9.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\lodash\lodash.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\build.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo-build.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\app.build.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\require.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\styles\one.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\styles\two.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\coolPartial.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\helpers\all.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\helpers\myhelper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\helpers\yeller.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\i18n\en_ca.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\i18n\en_us.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\demo\template\one.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\hbs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\hbs\handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\hbs\i18nprecompile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\hbs\json2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\hbs\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\r.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\spec\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\spec\partial.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\spec\partial_subdir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\spec\simple.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\_partial.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\partial.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\partial_fullpath.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\partial_subdir.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\partials\_simple.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\simple.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\templates\subdir\parent.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\test-main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require-handlebars-plugin\tests\test.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require\json.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require\noext.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require\require.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require\text.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\D\projects\js-learn\TypeScript-AMD-Boilerplate\src\assets\vendor\require\tpl.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scripts/AppBootstrap.ts" afterPath="$PROJECT_DIR$/src/assets/scripts/AppBootstrap.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scripts/TestApp.ts" afterPath="$PROJECT_DIR$/src/assets/scripts/TestApp.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/config.html" afterPath="$PROJECT_DIR$/src/config.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scripts/config.ts" afterPath="$PROJECT_DIR$/src/assets/scripts/config.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="TypeScript-AMD-Boilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -181,11 +125,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.074074075" vertical-offset="0" max-vertical-offset="648">
+            <state vertical-scroll-proportion="-1.92" vertical-offset="0" max-vertical-offset="208">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34674922" vertical-offset="0" max-vertical-offset="646">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -234,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/assets/scripts/AppBootstrap.ts" />
         <option value="$PROJECT_DIR$/src/assets/scripts/config.ts" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -765,12 +723,12 @@
       <workItem from="1413747694775" duration="21737000" />
       <workItem from="1413904884127" duration="5095000" />
       <workItem from="1413913252495" duration="61000" />
-      <workItem from="1413913329259" duration="14000" />
+      <workItem from="1413913329259" duration="787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26907000" />
+    <option name="totallyTimeSpent" value="27680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="237" y="5" width="1328" height="854" extended-state="0" />
@@ -1152,8 +1110,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.074074075" vertical-offset="0" max-vertical-offset="648">
+        <state vertical-scroll-proportion="-1.92" vertical-offset="0" max-vertical-offset="208">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34674922" vertical-offset="0" max-vertical-offset="646">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>

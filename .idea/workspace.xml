@@ -141,8 +141,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6687307" vertical-offset="0" max-vertical-offset="646">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.84210527" vertical-offset="0" max-vertical-offset="646">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -667,12 +667,12 @@
       <workItem from="1413747694775" duration="21737000" />
       <workItem from="1413904884127" duration="5095000" />
       <workItem from="1413913252495" duration="61000" />
-      <workItem from="1413913329259" duration="1154000" />
+      <workItem from="1413913329259" duration="1427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28047000" />
+    <option name="totallyTimeSpent" value="28328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="237" y="5" width="1328" height="854" extended-state="0" />
@@ -1065,8 +1065,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6687307" vertical-offset="0" max-vertical-offset="646">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.84210527" vertical-offset="0" max-vertical-offset="646">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>

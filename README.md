@@ -1,6 +1,7 @@
 TypeScript AMD (Require.js) Boilerplate
 ======================
 See the original project for details.
+This is a clone simply to experiment with the TypeScript development workflow.
 
 #Notes on changes
 ----------
@@ -26,3 +27,8 @@ $ tsd query jquery.clientSideLogging  --resolve --overwrite --save --action inst
 ## JavaScript libraries
 
 See the folder 'assets/scripts/libs'.
+
+## Useful resources 
+
+
+* [My TypeScript Workflow Example](http://www.codebelt.com/typescript/my-typescript-workflow-examples/)

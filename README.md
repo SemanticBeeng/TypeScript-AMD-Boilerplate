@@ -3,7 +3,7 @@ TypeScript AMD (Require.js) Boilerplate
 See the original project for details.
 This is a clone simply to experiment with the TypeScript development workflow.
 
-#A development workflow involving TypeScript, Intellij IDEA, Grunt and Node.js  
+##A development workflow involving TypeScript, Intellij IDEA, Grunt and Node.js  
 ----------
 
 1. Uses external libraries (jQuery, etc)

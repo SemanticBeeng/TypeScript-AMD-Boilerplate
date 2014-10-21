@@ -94,7 +94,7 @@ module.exports = function(grunt) {
                 files: [
                     // Copy favicon.ico file from development to production
                     { expand: true, cwd: '<%= DEVELOPMENT_PATH %>', src: 'favicon.ico', dest: '<%= PRODUCTION_PATH %>' },
-                    { expand: true, cwd: '<%= DEVELOPMENT_PATH %>', src: 'assets/vendor/require/require.js', dest: '<%= PRODUCTION_PATH %>' },
+                    { expand: true, cwd: '<%= DEVELOPMENT_PATH %>', src: 'assets/lib/require/require.js', dest: '<%= PRODUCTION_PATH %>' },
                     // Copy the media folder from development to production
                     { expand: true, cwd: '<%= DEVELOPMENT_PATH %>', src: ['assets/media/**'], dest: '<%= PRODUCTION_PATH %>' },
                     // Copy the index.html file from development to production

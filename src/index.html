@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 
-<!-- @if NODE_ENV == 'DEVELOPMENT' -->
 <html lang="en">
-<!-- @endif -->
-
-<!-- @if NODE_ENV == 'PRODUCTION' -->
-<html lang="en" manifest="offline.appcache">
-<!-- @endif -->
-
     <head>
         <!-- The current version of the application -->
-        <meta name="version" content="<!-- @echo appVersion -->"/>
+        <meta name="version" content="0.1.0"/>
 
         <!-- Define charset for HTML5 Doctype -->
         <meta charset="utf-8" />
@@ -23,12 +16,12 @@
         <meta name="apple-mobile-web-app-title" content="App Title">
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-        <link rel="apple-touch-icon" sizes="29x29" href="<!-- @echo filePath -->assets/media/images/moblie-icons/icon-29x29.png" />
-        <link rel="apple-touch-icon" sizes="50x50" href="<!-- @echo filePath -->assets/media/images/moblie-icons/icon-50x50.png" />
-        <link rel="apple-touch-icon" sizes="58x58" href="<!-- @echo filePath -->assets/media/images/moblie-icons/icon-58x58.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="<!-- @echo filePath -->assets/media/images/moblie-icons/icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="100x100" href="<!-- @echo filePath -->assets/media/images/moblie-icons/icon-100x100.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="<!-- @echo filePath -->assets/media/images/moblie-icons/icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="29x29" href="assets/media/images/moblie-icons/icon-29x29.png" />
+        <link rel="apple-touch-icon" sizes="50x50" href="assets/media/images/moblie-icons/icon-50x50.png" />
+        <link rel="apple-touch-icon" sizes="58x58" href="assets/media/images/moblie-icons/icon-58x58.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/media/images/moblie-icons/icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="100x100" href="assets/media/images/moblie-icons/icon-100x100.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/media/images/moblie-icons/icon-144x144.png">
 
         <meta name="format-detection" content="telephone-no">
 
@@ -41,7 +34,6 @@
 
     </head>
     <body>
-        <!-- @if NODE_ENV == 'DEVELOPMENT' -->
         <script type="text/javascript" src="assets/scripts/lib/require/require.js"></script>
         <script type="text/javascript" src="assets/scripts/config.js"></script>
         <script>
@@ -51,11 +43,5 @@
              */
             require(['AppBootstrap']);
         </script>
-        <!-- @endif -->
-
-        <!-- @if NODE_ENV == 'PRODUCTION' -->
-        <script type="text/javascript" src="assets/scripts/lib/require/require.js"></script>
-        <script type="text/javascript" src="assets/scripts/app.min.js"></script>
-        <!-- @endif -->
     </body>
 </html>

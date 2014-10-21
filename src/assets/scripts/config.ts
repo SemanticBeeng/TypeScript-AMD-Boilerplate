@@ -7,18 +7,19 @@ require.config({
 
     paths: {
         //main libraries
-        jquery: '../vendor/jquery/jquery-1.9.1',
-        lodash: '../vendor/lodash/lodash',
+        jquery: './lib/jquery/jquery-1.9.1',
+        jqueryClientLog: './lib/jquery.clientSideLogging/jQuery.clientSideLogging.js',
+        lodash: './lib/lodash/lodash',
 
         //shortcut paths
         templates: '../templates',
         data: '../data',
 
         //require plugins
-        text: '../vendor/require/text',
-        tpl: '../vendor/require/tpl',
-        json: '../vendor/require/json',
-        hbs: '../vendor/require-handlebars-plugin/hbs'
+        text: './lib/require/text',
+        tpl: './lib/require/tpl',
+        json: './lib/require/json',
+        hbs: './lib//require-handlebars-plugin/hbs'
     },
 
     shim: {

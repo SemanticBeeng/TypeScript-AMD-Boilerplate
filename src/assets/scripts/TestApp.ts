@@ -1,10 +1,11 @@
 ///<reference path='_declare/external.d.ts'/>
-///<reference path='_declare/jquery.d.ts'/>
-///<reference path='_declare/lodash.d.ts'/>
+///<reference path='typings/jquery/jquery.d.ts'/>
+///<reference path='typings/lodash/lodash.d.ts'/>
 
 /// <amd-dependency path="hbs!templates/topbar/TopNavigationTemplate" />
 /// <amd-dependency path="hbs!templates/login/LoginTemplate" />
 declare var require:(moduleId:string) => any;
+
 var TopNavigationTemplate:Function = require('hbs!templates/topbar/TopNavigationTemplate');
 var LoginTemplate:Function = require('hbs!templates/login/LoginTemplate');
 

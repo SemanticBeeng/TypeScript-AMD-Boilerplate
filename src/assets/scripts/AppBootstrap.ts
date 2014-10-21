@@ -1,4 +1,4 @@
-/// <reference path="_declare/require.d.ts" />
+/// <reference path="typings/requirejs/require.d.ts" />
 
 ///<reference path='config.ts'/>
 ///<reference path='TestApp.ts'/>
@@ -13,6 +13,7 @@ require(
     ],
     (TestApp, $) => {
         'use strict';
+
 
         $(document).ready(function () {
             var app = new TestApp();
